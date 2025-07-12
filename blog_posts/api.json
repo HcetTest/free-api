@@ -1,31 +1,31 @@
 [
   {
     "userId": "101",
-    "id": "1",
+    "id": 1,
     "title": "The Art of Mindful Living in a Busy World",
     "body": "In today's fast-paced world, finding moments of calm and presence can feel like a luxury. This post explores practical tips for integrating mindfulness into your daily routine, from simple breathing exercises to mindful eating. Discover how a few minutes of conscious awareness can transform your stress levels and boost overall well-being. It's not about doing more, but about being more."
   },
   {
     "userId": "102",
-    "id": "2",
+    "id": 2,
     "title": "Demystifying AI: What Everyone Should Know",
     "body": "Artificial Intelligence is no longer just sci-fi; it's shaping our present and future. But what exactly is AI, and how does it impact us? This blog post breaks down the core concepts of AI, its applications in everyday life, and addresses common misconceptions. Get ready to understand the technology that's redefining industries and our interactions."
   },
   {
     "userId": "103",
-    "id": "3",
+    "id": 3,
     "title": "Exploring Local Flavors: A Culinary Journey Through South India",
     "body": "South Indian cuisine is a vibrant tapestry of flavors, aromas, and traditions. Join me on a culinary adventure as we delve into the unique spices, regional specialties, and must-try dishes from Kerala's backwaters to Tamil Nadu's Chettinad region. Prepare your taste buds for an unforgettable journey!"
   },
   {
     "userId": "104",
-    "id": "4",
+    "id": 4,
     "title": "The Future of Remote Work: Beyond the Pandemic",
     "body": "The pandemic irrevocably changed the way we work, accelerating the adoption of remote models. But what does the future hold for remote work? This article discusses the evolving landscape of distributed teams, the challenges and benefits, and how companies and individuals can thrive in a flexible work environment. Is the traditional office truly a thing of the past?"
   },
   {
     "userId": "105",
-    "id": "5",
+    "id": 5,
     "title": "Unlocking Creativity: Simple Habits to Spark Innovation",
     "body": "Do you ever feel stuck in a creative rut? Creativity isn't just for artists; it's a vital skill in all aspects of life. This post shares actionable habits and techniques to unleash your inner innovator, from daily journaling to embracing failure. Discover how small changes can lead to big breakthroughs in your thinking and problem-solving."
   }
