@@ -1,34 +1,34 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "userName": "DesiFoodieDreams",
     "title": "Nothing beats Amma's Sambar!",
     "imageUrl": "https://images.pexels.com/photos/4449068/pexels-photo-4449068.jpeg",
     "body": "Just had the most incredible Sambar made by my Amma! The aroma filled the whole house and it tasted like pure comfort. Paired it with some hot idlis – perfect start to the weekend! What's your favorite comfort food from home? #IndianFood #SambarLove #HomeCooking #MothersLove"
   },
   {
-    "id": "2",
+    "id": 2,
     "userName": "CricketFanatic",
     "title": "What a match! India truly played like champions!",
     "imageUrl": "https://images.pexels.com/photos/10469894/pexels-photo-10469894.jpeg",
     "body": "Edge-of-the-seat thrilling match today! The boys in blue really showed their mettle. From the bowling attack to those incredible sixes, every moment was electrifying. So proud of our team! 🇮🇳🏏 #Cricket #TeamIndia #BleedBlue #Sports"
   },
   {
-    "id": "3",
+    "id":3,
     "userName": "FestiveVibes",
     "title": "Diwali preparations are in full swing!",
     "imageUrl": "https://images.pexels.com/photos/1580085/pexels-photo-1580085.jpeg",
     "body": "The house is buzzing with activity! Cleaning, decorating, and planning all the yummy sweets for Diwali. Love this time of year when families come together. What's your favorite part about Diwali? ✨🏮 #Diwali #FestivalOfLights #IndianCulture #Tradition"
   },
   {
-    "id": "4",
+    "id": 4,
     "userName": "TechieBhai",
     "title": "New startup idea brewing in Hyderabad!",
     "imageUrl": "https://images.pexels.com/photos/3194521/pexels-photo-3194521.jpeg",
     "body": "Spent the day at a co-working space in Hitec City, and the energy here is infectious! Brainstorming some exciting new tech solutions. India's startup scene is truly booming. Wish me luck! 🚀💻 #StartupIndia #HyderabadTech #Innovation #Entrepreneurship"
   },
   {
-    "id": "5",
+    "id": 5,
     "userName": "BollywoodBuff",
     "title": "Obsessed with the new Hindi movie soundtrack!",
     "imageUrl": "https://as1.ftcdn.net/v2/jpg/02/78/61/20/1000_F_278612048_JtzBMCelCvrkZodAk5yF8tMPLqdLtKL2.jpg",
